@@ -100,6 +100,18 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrmClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmClientes.Designer.cs">
+      <DependentUpon>FrmClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmEnderecos.cs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmEnderecos.cs.Designer.cs">
+      <DependentUpon>FrmEnderecos.cs.cs</DependentUpon>
+    </Compile>
     <Compile Include="FrmMenuAdministrador.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -116,6 +128,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmEnderecos.cs.resx">
+      <DependentUpon>FrmEnderecos.cs.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

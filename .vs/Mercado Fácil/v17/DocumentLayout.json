@@ -3,27 +3,51 @@
   "WorkspaceRootPath": "C:\\Users\\paulo.hfsilva19\\source\\repos\\Mercado F\u00E1cil\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C0D6208B-8AFA-4D9B-983D-2DEEB9FC96A5}|Mercado F\u00E1cil\\Mercado F\u00E1cil.csproj|C:\\Users\\paulo.hfsilva19\\source\\repos\\Mercado F\u00E1cil\\mercado f\u00E1cil\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{C0D6208B-8AFA-4D9B-983D-2DEEB9FC96A5}|Mercado F\u00E1cil\\Mercado F\u00E1cil.csproj|c:\\users\\paulo.hfsilva19\\source\\repos\\mercado f\u00E1cil\\mercado f\u00E1cil\\frmenderecos.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0D6208B-8AFA-4D9B-983D-2DEEB9FC96A5}|Mercado F\u00E1cil\\Mercado F\u00E1cil.csproj|solutionrelative:mercado f\u00E1cil\\frmenderecos.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D6208B-8AFA-4D9B-983D-2DEEB9FC96A5}|Mercado F\u00E1cil\\Mercado F\u00E1cil.csproj|c:\\users\\paulo.hfsilva19\\source\\repos\\mercado f\u00E1cil\\mercado f\u00E1cil\\frmenderecos.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0D6208B-8AFA-4D9B-983D-2DEEB9FC96A5}|Mercado F\u00E1cil\\Mercado F\u00E1cil.csproj|solutionrelative:mercado f\u00E1cil\\frmenderecos.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D6208B-8AFA-4D9B-983D-2DEEB9FC96A5}|Mercado F\u00E1cil\\Mercado F\u00E1cil.csproj|c:\\users\\paulo.hfsilva19\\source\\repos\\mercado f\u00E1cil\\mercado f\u00E1cil\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0D6208B-8AFA-4D9B-983D-2DEEB9FC96A5}|Mercado F\u00E1cil\\Mercado F\u00E1cil.csproj|solutionrelative:mercado f\u00E1cil\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D6208B-8AFA-4D9B-983D-2DEEB9FC96A5}|Mercado F\u00E1cil\\Mercado F\u00E1cil.csproj|c:\\users\\paulo.hfsilva19\\source\\repos\\mercado f\u00E1cil\\mercado f\u00E1cil\\frmmenuadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0D6208B-8AFA-4D9B-983D-2DEEB9FC96A5}|Mercado F\u00E1cil\\Mercado F\u00E1cil.csproj|solutionrelative:mercado f\u00E1cil\\frmmenuadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D6208B-8AFA-4D9B-983D-2DEEB9FC96A5}|Mercado F\u00E1cil\\Mercado F\u00E1cil.csproj|C:\\Users\\paulo.hfsilva19\\source\\repos\\Mercado F\u00E1cil\\mercado f\u00E1cil\\frmmenuadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0D6208B-8AFA-4D9B-983D-2DEEB9FC96A5}|Mercado F\u00E1cil\\Mercado F\u00E1cil.csproj|solutionrelative:mercado f\u00E1cil\\frmmenuadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D6208B-8AFA-4D9B-983D-2DEEB9FC96A5}|Mercado F\u00E1cil\\Mercado F\u00E1cil.csproj|c:\\users\\paulo.hfsilva19\\source\\repos\\mercado f\u00E1cil\\mercado f\u00E1cil\\frmmenuadministrador.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0D6208B-8AFA-4D9B-983D-2DEEB9FC96A5}|Mercado F\u00E1cil\\Mercado F\u00E1cil.csproj|solutionrelative:mercado f\u00E1cil\\frmmenuadministrador.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D6208B-8AFA-4D9B-983D-2DEEB9FC96A5}|Mercado F\u00E1cil\\Mercado F\u00E1cil.csproj|c:\\users\\paulo.hfsilva19\\source\\repos\\mercado f\u00E1cil\\mercado f\u00E1cil\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0D6208B-8AFA-4D9B-983D-2DEEB9FC96A5}|Mercado F\u00E1cil\\Mercado F\u00E1cil.csproj|solutionrelative:mercado f\u00E1cil\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D6208B-8AFA-4D9B-983D-2DEEB9FC96A5}|Mercado F\u00E1cil\\Mercado F\u00E1cil.csproj|c:\\users\\paulo.hfsilva19\\source\\repos\\mercado f\u00E1cil\\mercado f\u00E1cil\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C0D6208B-8AFA-4D9B-983D-2DEEB9FC96A5}|Mercado F\u00E1cil\\Mercado F\u00E1cil.csproj|solutionrelative:mercado f\u00E1cil\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Mercado F\u00E1cil||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D6208B-8AFA-4D9B-983D-2DEEB9FC96A5}|Mercado F\u00E1cil\\Mercado F\u00E1cil.csproj|C:\\Users\\paulo.hfsilva19\\source\\repos\\Mercado F\u00E1cil\\mercado f\u00E1cil\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0D6208B-8AFA-4D9B-983D-2DEEB9FC96A5}|Mercado F\u00E1cil\\Mercado F\u00E1cil.csproj|solutionrelative:mercado f\u00E1cil\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D6208B-8AFA-4D9B-983D-2DEEB9FC96A5}|Mercado F\u00E1cil\\Mercado F\u00E1cil.csproj|C:\\Users\\paulo.hfsilva19\\source\\repos\\Mercado F\u00E1cil\\mercado f\u00E1cil\\frmmenuusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0D6208B-8AFA-4D9B-983D-2DEEB9FC96A5}|Mercado F\u00E1cil\\Mercado F\u00E1cil.csproj|solutionrelative:mercado f\u00E1cil\\frmmenuusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C0D6208B-8AFA-4D9B-983D-2DEEB9FC96A5}|Mercado F\u00E1cil\\Mercado F\u00E1cil.csproj|C:\\Users\\paulo.hfsilva19\\source\\repos\\Mercado F\u00E1cil\\mercado f\u00E1cil\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0D6208B-8AFA-4D9B-983D-2DEEB9FC96A5}|Mercado F\u00E1cil\\Mercado F\u00E1cil.csproj|solutionrelative:mercado f\u00E1cil\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0D6208B-8AFA-4D9B-983D-2DEEB9FC96A5}|Mercado F\u00E1cil\\Mercado F\u00E1cil.csproj|c:\\users\\paulo.hfsilva19\\source\\repos\\mercado f\u00E1cil\\mercado f\u00E1cil\\frmmenuusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C0D6208B-8AFA-4D9B-983D-2DEEB9FC96A5}|Mercado F\u00E1cil\\Mercado F\u00E1cil.csproj|solutionrelative:mercado f\u00E1cil\\frmmenuusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0D6208B-8AFA-4D9B-983D-2DEEB9FC96A5}|Mercado F\u00E1cil\\Mercado F\u00E1cil.csproj|c:\\users\\paulo.hfsilva19\\source\\repos\\mercado f\u00E1cil\\mercado f\u00E1cil\\frmmenuadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C0D6208B-8AFA-4D9B-983D-2DEEB9FC96A5}|Mercado F\u00E1cil\\Mercado F\u00E1cil.csproj|solutionrelative:mercado f\u00E1cil\\frmmenuadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0D6208B-8AFA-4D9B-983D-2DEEB9FC96A5}|Mercado F\u00E1cil\\Mercado F\u00E1cil.csproj|c:\\users\\paulo.hfsilva19\\source\\repos\\mercado f\u00E1cil\\mercado f\u00E1cil\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0D6208B-8AFA-4D9B-983D-2DEEB9FC96A5}|Mercado F\u00E1cil\\Mercado F\u00E1cil.csproj|solutionrelative:mercado f\u00E1cil\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Mercado F\u00E1cil||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C0D6208B-8AFA-4D9B-983D-2DEEB9FC96A5}|Mercado F\u00E1cil\\Mercado F\u00E1cil.csproj|c:\\users\\paulo.hfsilva19\\source\\repos\\mercado f\u00E1cil\\mercado f\u00E1cil\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
@@ -36,11 +60,74 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmEnderecos.cs.cs",
+              "DocumentMoniker": "C:\\Users\\paulo.hfsilva19\\source\\repos\\Mercado F\u00E1cil\\Mercado F\u00E1cil\\FrmEnderecos.cs.cs",
+              "RelativeDocumentMoniker": "Mercado F\u00E1cil\\FrmEnderecos.cs.cs",
+              "ToolTip": "C:\\Users\\paulo.hfsilva19\\source\\repos\\Mercado F\u00E1cil\\Mercado F\u00E1cil\\FrmEnderecos.cs.cs",
+              "RelativeToolTip": "Mercado F\u00E1cil\\FrmEnderecos.cs.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T14:15:51.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmEnderecos.cs.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\paulo.hfsilva19\\source\\repos\\Mercado F\u00E1cil\\Mercado F\u00E1cil\\FrmEnderecos.cs.cs",
+              "RelativeDocumentMoniker": "Mercado F\u00E1cil\\FrmEnderecos.cs.cs",
+              "ToolTip": "C:\\Users\\paulo.hfsilva19\\source\\repos\\Mercado F\u00E1cil\\Mercado F\u00E1cil\\FrmEnderecos.cs.cs [Design]",
+              "RelativeToolTip": "Mercado F\u00E1cil\\FrmEnderecos.cs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T13:51:46.756Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "FrmClientes.cs",
+              "DocumentMoniker": "C:\\Users\\paulo.hfsilva19\\source\\repos\\Mercado F\u00E1cil\\Mercado F\u00E1cil\\FrmClientes.cs",
+              "RelativeDocumentMoniker": "Mercado F\u00E1cil\\FrmClientes.cs",
+              "ToolTip": "C:\\Users\\paulo.hfsilva19\\source\\repos\\Mercado F\u00E1cil\\Mercado F\u00E1cil\\FrmClientes.cs",
+              "RelativeToolTip": "Mercado F\u00E1cil\\FrmClientes.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAAAJgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T12:18:46.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmClientes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\paulo.hfsilva19\\source\\repos\\Mercado F\u00E1cil\\Mercado F\u00E1cil\\FrmClientes.cs",
+              "RelativeDocumentMoniker": "Mercado F\u00E1cil\\FrmClientes.cs",
+              "ToolTip": "C:\\Users\\paulo.hfsilva19\\source\\repos\\Mercado F\u00E1cil\\Mercado F\u00E1cil\\FrmClientes.cs [Design]",
+              "RelativeToolTip": "Mercado F\u00E1cil\\FrmClientes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T12:17:08.742Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmMenuAdministrador.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\paulo.hfsilva19\\source\\repos\\Mercado F\u00E1cil\\Mercado F\u00E1cil\\FrmMenuAdministrador.Designer.cs",
+              "RelativeDocumentMoniker": "Mercado F\u00E1cil\\FrmMenuAdministrador.Designer.cs",
+              "ToolTip": "C:\\Users\\paulo.hfsilva19\\source\\repos\\Mercado F\u00E1cil\\Mercado F\u00E1cil\\FrmMenuAdministrador.Designer.cs",
+              "RelativeToolTip": "Mercado F\u00E1cil\\FrmMenuAdministrador.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T11:54:55.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "FrmMenuUsuario.cs [Design]",
               "DocumentMoniker": "C:\\Users\\paulo.hfsilva19\\source\\repos\\Mercado F\u00E1cil\\Mercado F\u00E1cil\\FrmMenuUsuario.cs",
               "RelativeDocumentMoniker": "Mercado F\u00E1cil\\FrmMenuUsuario.cs",
@@ -52,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "FrmMenuAdministrador.cs [Design]",
               "DocumentMoniker": "C:\\Users\\paulo.hfsilva19\\source\\repos\\Mercado F\u00E1cil\\Mercado F\u00E1cil\\FrmMenuAdministrador.cs",
               "RelativeDocumentMoniker": "Mercado F\u00E1cil\\FrmMenuAdministrador.cs",
@@ -64,20 +151,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
+              "Title": "FrmMenuAdministrador.cs",
+              "DocumentMoniker": "C:\\Users\\paulo.hfsilva19\\source\\repos\\Mercado F\u00E1cil\\Mercado F\u00E1cil\\FrmMenuAdministrador.cs",
+              "RelativeDocumentMoniker": "Mercado F\u00E1cil\\FrmMenuAdministrador.cs",
+              "ToolTip": "C:\\Users\\paulo.hfsilva19\\source\\repos\\Mercado F\u00E1cil\\Mercado F\u00E1cil\\FrmMenuAdministrador.cs",
+              "RelativeToolTip": "Mercado F\u00E1cil\\FrmMenuAdministrador.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowEMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T12:02:02.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Conexao.cs",
               "DocumentMoniker": "C:\\Users\\paulo.hfsilva19\\source\\repos\\Mercado F\u00E1cil\\Mercado F\u00E1cil\\Conexao.cs",
               "RelativeDocumentMoniker": "Mercado F\u00E1cil\\Conexao.cs",
               "ToolTip": "C:\\Users\\paulo.hfsilva19\\source\\repos\\Mercado F\u00E1cil\\Mercado F\u00E1cil\\Conexao.cs",
               "RelativeToolTip": "Mercado F\u00E1cil\\Conexao.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-07T14:17:03.383Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Mercado F\u00E1cil",
               "DocumentMoniker": "C:\\Users\\paulo.hfsilva19\\source\\repos\\Mercado F\u00E1cil\\Mercado F\u00E1cil\\Mercado F\u00E1cil.csproj",
               "RelativeDocumentMoniker": "Mercado F\u00E1cil\\Mercado F\u00E1cil.csproj",
@@ -89,7 +189,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\paulo.hfsilva19\\source\\repos\\Mercado F\u00E1cil\\Mercado F\u00E1cil\\Form1.cs",
               "RelativeDocumentMoniker": "Mercado F\u00E1cil\\Form1.cs",
@@ -101,13 +201,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\paulo.hfsilva19\\source\\repos\\Mercado F\u00E1cil\\Mercado F\u00E1cil\\Form1.cs",
               "RelativeDocumentMoniker": "Mercado F\u00E1cil\\Form1.cs",
               "ToolTip": "C:\\Users\\paulo.hfsilva19\\source\\repos\\Mercado F\u00E1cil\\Mercado F\u00E1cil\\Form1.cs",
               "RelativeToolTip": "Mercado F\u00E1cil\\Form1.cs",
-              "ViewState": "AgIAAGEAAAAAAAAAAAAgwG0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-07T12:54:53.85Z",
               "EditorCaption": ""

@@ -38,3 +38,4 @@ C:\Users\paulo.hfsilva19\source\repos\Mercado Fácil\Mercado Fácil\obj\Debug\Me
 C:\Users\paulo.hfsilva19\source\repos\Mercado Fácil\Mercado Fácil\obj\Debug\Mercado Fácil.pdb
 C:\Users\paulo.hfsilva19\source\repos\Mercado Fácil\Mercado Fácil\obj\Debug\Mercado Fácil.exe.config
 C:\Users\paulo.hfsilva19\source\repos\Mercado Fácil\Mercado Fácil\obj\Debug\Mercado_Fácil.FrmLogin.resources
+C:\Users\paulo.hfsilva19\source\repos\Mercado Fácil\Mercado Fácil\obj\Debug\Mercado_Fácil.FrmEnderecos.resources
